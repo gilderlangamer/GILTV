@@ -1,10 +1,11 @@
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sfe1esa.png",RECORD TV - GILTV
-https://server101.online/record/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=f6479a64a26dc0d451cb1fab2a7fb60e718498f3-ebb529b8666646f49774749ffc4f1a8d-1688268839-1688265239
+https://server101.online/record/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=1e4e8a41f55995f55a623983725d4b85732fe2d9-c5bf925de8da9fbee6147581a8e731ab-1688307528-1688303928
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6oenDD7.png",SBT HD - GILTV
-https://server101.online/sbt/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=b2ef0501e2defcce32752751ec38147f9e97ab50-5a316b0f175ced4ba232fef5e635eef9-1688267568-1688263968
+https://server101.online/sbt/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=99ebaf419c6a1f20e2fddb7c7548804b62326e30-55e8f94b8784a37a16fe38beb0106509-1688307654-1688304054
  
 #EXTINF:-1 tvg-logo="https://imgur.com/0J0m2uF.png",GLOBO HD - GILTV
 https://server101.online/globo-sp/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=9b510cf9f00491190b0fda2186c318f1d1e13df5-ab7bd2872e129c383c4b23897f399bce-1688269084-1688265484
