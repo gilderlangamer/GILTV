@@ -7,10 +7,10 @@ https://stmv1.srvif.com/channel1/channel1/chunklist_w285237757.m3u8
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6oenDD7.png",SBT HD - GILTV
-https://server101.online/sbt/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=99ebaf419c6a1f20e2fddb7c7548804b62326e30-55e8f94b8784a37a16fe38beb0106509-1688307654-1688304054
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://imgur.com/0J0m2uF.png",GLOBO HD - GILTV
-https://server101.online/globo-sp/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=9b510cf9f00491190b0fda2186c318f1d1e13df5-ab7bd2872e129c383c4b23897f399bce-1688269084-1688265484
+https://server101.online/globo-sp/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=6eca26f098212182b0a4f6c397b83e01bb51a6fd-6b6d2828554336f62de51fa3716d26f4-1688318096-1688310896
 
 #EXTINF:-1 tvg-logo="https://imgur.com/QQZRJoj.png",BAND - GILTV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w222731547.m3u8
@@ -21,8 +21,11 @@ https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8?token=11089294816
 #EXTINF:-1 tvg-logo="https://imgur.com/3bcFkV7.png",TV Cultura - GILTV
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1366780445.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/1XumDSA.png",TV Nova Play - GILTV
+#EXTINF:-1 tvg-logo="https://imgur.com/kSxRHIy.png",TV Nova Play - GILTV
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1520504803.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1XumDSA.png",ULB TV - GILTV
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w330097200.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8h1QLmJ.png",AWTV - GILTV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
@@ -30,11 +33,17 @@ https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eYDkTvH.png",Xtreme TV - GILTV
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w2064249760.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/KmLkctP.png",Rede Clounding- GILTV
+#EXTINF:-1 tvg-logo="https://imgur.com/5EFcIN5.png",Rede Clounding - GILTV
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1534961493.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KmLkctP.png",TV JAPI - GILTV
+https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist_w794781885.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/is4G3rm.png",Retrô Cartoon - GILTV
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w796806508.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TxG8oII.png",Gospel Cartoon - GILTV
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w1185340284.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qzSFKcK.png",Looading - GILTV
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w2107640393.m3u8
