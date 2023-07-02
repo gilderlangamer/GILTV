@@ -87,12 +87,6 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w432289428.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mriJobE.png",Tooncast - GILTV
 https://server101.online/tooncast/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=cb14b2203d0c2e697e1ec1ed24ec99fbb287f67e-891929a70a59823ac6d2ec36915285d5-1688271553-1688267953
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8JAjJ2R.png",HBO Familly - GILTV
-https://server101.online/hbo-family/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=f16b7ff4fc5fd323779f2019a5218933a38bd738-4211742ba7e675d8fad2392219043a4a-1688271774-1688268174
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BQ651tO.png",Telecine Fun - GILTV
-https://server101.online/tc-fun/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=f3de61f99a5e8d912cd5eda0093b29ed187da5df-a6d842e88e58ee79e4f86b3fd4b7d154-1688271964-1688268364
-
 #EXTINF:-1 tvg-logo="https://imgur.com/5GphUKo.png",Cartoonito - GILTV
 https://server101.online/cartoonito/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=ef1333111a670783b0443258d41363f777074154-fe0d07e9b54d304d2c00f64478f1150b-1688272147-1688268547
 
@@ -114,6 +108,29 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1215179
 #EXTINF:-1 tvg-logo="https://imgur.com/rqtuBcA.png",Nick Jr- GILTV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-
 #EXTINF:-1 tvg-logo="https://imgur.com/w04V5HD.png",Discovery Kids - GILTV
 https://server101.online/d-kids/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=bbeceacdfc8767a2c879cbb4e586ad0590e884cf-6c951e10759d923b3a11c08e3b7083d6-1688273745-1688270145
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vLtsbmp.png",HBO - GILTV
+https://server101.online/hbo/index.m3u8?token=87c6eec60847e0982c53d6230e5af853875f7a47-094e2c548fa3143d7209a8ddd2ac9aa5-1688328409-1688321209
+
+#EXTINF:-1 tvg-logo="https://imgur.com/MytAK3y.png",HBO MUNDI - GILTV
+https://server101.online/hbo-mundi/index.m3u8?token=3582afb5c2d0e03e3a19f9bb5cbda7f39b0694be-8c01a69ac8f6a84e8778b9083bccdc7c-1688328597-1688321397
+
+#EXTINF:-1 tvg-logo="https://imgur.com/78i82Cw.png",HBO POP - GILTV
+https://server101.online/hbo-pop/index.m3u8?token=c39899cbe6379d81ae84eb59d51835af01761af6-1955e1929f11cc7478947b474cd0f6e3-1688328767-1688321567
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Z1HjnV9.png",HBO XTREME - GILTV
+https://server101.online/hbo-xtreme/index.m3u8?token=317a1d323bb0d36e78ab26e8faf4d6c82e3821b2-6d685d3d5379ed56b4bbc31fb4f06597-1688328860-1688321660
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BR0qH95.png",HBO Familly - GILTV
+https://server101.online/hbo-xtreme/index.m3u8?token=317a1d323bb0d36e78ab26e8faf4d6c82e3821b2-6d685d3d5379ed56b4bbc31fb4f06597-1688328860-1688321660
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QNLNRYz.png",HBO Plus - GILTV
+https://server101.online/hbo-plus/index.m3u8?token=0e06540b96bda5f078c37ab6ef7b44f7ee9ca3d0-626a1ad07ca2b4373d23f9bcffc30d53-1688329081-1688321881
+
+#EXTINF:-1 tvg-logo="https://imgur.com/S7Tv0mt.png",HBO 2 - GILTV
+https://server101.online/hbo2/index.m3u8?token=b0f8f1c2a73bf193e21a23d66abad19318a8d780-c78e188403d452d081ff181b059a9537-1688329248-1688322048
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Wg8mb5O.png",Cinemax - GILTV
+https://server101.online/cinemax/index.m3u8?token=323ce6c64c8fd690d40a6a41dae936982fcb2e51-c5f4c75a3518d641f259ab775436eb37-1688329337-1688322137&remote=45.6.39.145
