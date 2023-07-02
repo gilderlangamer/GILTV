@@ -21,10 +21,10 @@ https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8?token=11089294816
 #EXTINF:-1 tvg-logo="https://imgur.com/3bcFkV7.png",TV Cultura - GILTV
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1366780445.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/kSxRHIy.png",TV Nova Play - GILTV
+#EXTINF:-1 tvg-logo="https://imgur.com/1XumDSA.png",TV Nova Play - GILTV
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1520504803.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/1XumDSA.png",ULB TV - GILTV
+#EXTINF:-1 tvg-logo="https://imgur.com/kSxRHIy.png",ULB TV - GILTV
 https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w330097200.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8h1QLmJ.png",AWTV - GILTV
