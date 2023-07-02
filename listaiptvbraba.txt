@@ -24,6 +24,15 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1366780445.
 #EXTINF:-1 tvg-logo="https://imgur.com/1XumDSA.png",TV Nova Play - GILTV
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1520504803.m3u8
 
+#EXTINF:-1 tvg-logo="https://jpimg.com.br/uploads/2018/05/logo-jovempan-news.png",Jovem Pan News - GILTV
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/3mTwUC5.png",CNN Brasil - GILTV
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/t5p6034.png",RECORD NEWS - GILTV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1 tvg-logo="https://imgur.com/kSxRHIy.png",ULB TV - GILTV
 https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w330097200.m3u8
 
@@ -100,10 +109,11 @@ https://server101.online/globinho/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token
 https://server101.online/gloob/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=d98a382dab1d5f74384185468f935e2315aed5a5-dec5ffa223fff817bceb7c04419002aa-1688273488-1688269888
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png",Nickelodeon - GILTV
-https://server101.online/nick/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=0746cc58fa31081e18d8b0fd980cc4b568d26892-6c592c602a1de1843e412a4e425d7b89-1688273528-1688269928
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rqtuBcA.png",Nick Jr- GILTV
-https://server101.online/nick-jr/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=d42e641a9c463d8be17f285282660792f9f762f0-8a96e548f26357faea95d5d6bb9ae9c7-1688273660-1688270060
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/w04V5HD.png",Discovery Kids - GILTV
 https://server101.online/d-kids/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=bbeceacdfc8767a2c879cbb4e586ad0590e884cf-6c951e10759d923b3a11c08e3b7083d6-1688273745-1688270145
