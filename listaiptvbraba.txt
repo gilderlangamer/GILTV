@@ -42,6 +42,15 @@ https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w2107640393.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P9MvLzT.png",Kid Mais - GILTV
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831481.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/ELHfPag.png",Run:Time - GILTV
+https://stream.ads.ottera.tv/cl/230702cigompa753pinesr233g/1280x720_3071200_0_f.m3u8?i=475_2153
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Dg12ch7.png",TV Sonata - GILTV
+https://video01.kshost.com.br/tiago2001/tiago2001/chunklist_w843893603.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2RCKhiS.png",GEEKDOT - GILTV
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/UbB6vcZ.png",Rede Família - GILTV
 https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w1134839487.m3u8
 
