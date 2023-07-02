@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sfe1esa.png",RECORD TV - GILTV
+https://server101.online/record/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=f6479a64a26dc0d451cb1fab2a7fb60e718498f3-ebb529b8666646f49774749ffc4f1a8d-1688268839-1688265239
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6oenDD7.png",SBT HD - GILTV
+https://server101.online/sbt/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=b2ef0501e2defcce32752751ec38147f9e97ab50-5a316b0f175ced4ba232fef5e635eef9-1688267568-1688263968
+ 
+#EXTINF:-1 tvg-logo="https://imgur.com/0J0m2uF.png",GLOBO HD - GILTV
+https://server101.online/globo-sp/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=9b510cf9f00491190b0fda2186c318f1d1e13df5-ab7bd2872e129c383c4b23897f399bce-1688269084-1688265484
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KGfLIee.png",REDE CLONE TV - GILTV
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1534961493.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/UbB6vcZ.png",REDE FAMÍLIA - GILTV
+https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w1134839487.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QQZRJoj.png",BAND - GILTV
+https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-bbR_BU1zYDudatUQHLLry7lf69nZNHFmLtqpOKXAGmc)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-id="Amazon Sat" tvg-name="Amazon Sat" tvg-logo="https://imgur.com/EPScbta.png" group-title="Canais Abertos",TV MAX - GILTV
+https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/chunklist_w1692112557.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gddk2Yq.png",REDETV - GILTV
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w1257394187_b2778006.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/896NNg7.png",REDE NGT - GILTV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1773073702.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JG1gIkE.png",ANIME ZONE TV - GILTV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w432289428.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/mriJobE.png",TOONCAST - GILTV
+https://server101.online/tooncast/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=cb14b2203d0c2e697e1ec1ed24ec99fbb287f67e-891929a70a59823ac6d2ec36915285d5-1688271553-1688267953
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8JAjJ2R.png",HBO Familly - GILTV
+https://server101.online/hbo-family/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=f16b7ff4fc5fd323779f2019a5218933a38bd738-4211742ba7e675d8fad2392219043a4a-1688271774-1688268174
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BQ651tO.png",TELECINE FUN - GILTV
+https://server101.online/tc-fun/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=f3de61f99a5e8d912cd5eda0093b29ed187da5df-a6d842e88e58ee79e4f86b3fd4b7d154-1688271964-1688268364
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5GphUKo.png",CARTOONITO - GILTV
+https://server101.online/cartoonito/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=ef1333111a670783b0443258d41363f777074154-fe0d07e9b54d304d2c00f64478f1150b-1688272147-1688268547
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Z4wPJBA.png",CARTOON NETWORK - GILTV
+https://cdn2.connectbr.com.br/Cartoon-Network/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cosmonerd.com.br//uploads/2017/10/disney-channel.png",Disney Channel - GILTV
+https://server101.online/disney/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=affdd3fba6590d94bd0b462899d0a0315a2a8632-c4b9b41f6220a6c36a06db6924f3a1bc-1688273273-1688269673
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fma3sI0.png",Gloobinho - GILTV
+https://server101.online/globinho/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=0701fb1839dcbe67a69e3a66f64359714aa38207-8293a7a5e406df569d2ce3d1a600bf28-1688273390-1688269790
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ROrsXyL.png",Gloob - GILTV
+https://server101.online/gloob/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=d98a382dab1d5f74384185468f935e2315aed5a5-dec5ffa223fff817bceb7c04419002aa-1688273488-1688269888
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png",Nickelodeon - GILTV
+https://server101.online/nick/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=0746cc58fa31081e18d8b0fd980cc4b568d26892-6c592c602a1de1843e412a4e425d7b89-1688273528-1688269928
+
+#EXTINF:-1 tvg-logo="https://imgur.com/rqtuBcA.png",NICK JR - GILTV
+https://server101.online/nick-jr/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=d42e641a9c463d8be17f285282660792f9f762f0-8a96e548f26357faea95d5d6bb9ae9c7-1688273660-1688270060
+
+#EXTINF:-1 tvg-logo="https://imgur.com/w04V5HD.png",Discovery Kids - GILTV
+https://server101.online/d-kids/tracks-v1a1/mono.m3u8?remote=45.6.39.145&token=bbeceacdfc8767a2c879cbb4e586ad0590e884cf-6c951e10759d923b3a11c08e3b7083d6-1688273745-1688270145
